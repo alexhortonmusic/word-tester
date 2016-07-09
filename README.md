@@ -15,7 +15,7 @@ Write a test suite to validate your JavaScript functions.
 
 Now that the test suite exists, write a simple application to implement the functionality.
 
-1. In an HTML file, have two elements: a textarea and a button.
+1. In an HTML file, have two elements: a textarea and a button. 
 2. When the button is clicked, extract the contents of the textarea and validate it against the following rules.
 3. There should only be alphanumeric characters in the text. No special characters like $%^&*.
 4. No duplicate words allowed.
